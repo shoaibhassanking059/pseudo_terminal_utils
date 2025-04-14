@@ -13,7 +13,7 @@ dependencies:
   dart_pty:
     git: https://github.com/Termare/dart_pty
   global_repository:
-    https://github.com/shoaibhassanking059/global_repository
+    git: https://github.com/shoaibhassanking059/global_repository
 dev_dependencies:
   flutter_test:
     sdk: flutter
